@@ -1,0 +1,17 @@
+.dashboard-page {
+  background-color: #f8f8f0;
+  min-height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.dashboard-main {
+  display: flex;
+  padding: 20px;
+}
+
+.dashboard-content {
+  display: flex;
+  gap: 20px;
+  padding-left: 50px;
+  margin-top: 20px;
+}
